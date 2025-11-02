@@ -105,7 +105,7 @@ class Timer(ContextDecorator):
 
 ```
 
-You can run the run_test.py file in TFTSS.
+You can run the `run_test.py` file in TFTSS.
 
 The final test case that `TFTSS` generates for this example `PUT` is as follows:
 ```python
